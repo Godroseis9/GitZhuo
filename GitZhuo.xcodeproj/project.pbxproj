@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		3FDA92312F993CBF000144BB /* GitZhuo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = GitZhuo.app; path = "/Users/student/Desktop/Period 8 Zhuo/GitZhuo/build/Debug-iphoneos/GitZhuo.app"; sourceTree = "<absolute>"; };
+		3F4881E02F9A8D9400CBFFCA /* GitZhuo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitZhuo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,6 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				3FDA92332F993CBF000144BB /* GitZhuo */,
+				3F4881E02F9A8D9400CBFFCA /* GitZhuo.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,7 +59,7 @@
 			packageProductDependencies = (
 			);
 			productName = GitZhuo;
-			productReference = 3FDA92312F993CBF000144BB /* GitZhuo.app */;
+			productReference = 3F4881E02F9A8D9400CBFFCA /* GitZhuo.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
