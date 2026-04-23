@@ -10,7 +10,7 @@ import SwiftUI
 struct Hello: View {
     var body: some View {
         VStack {
-            
+            Text("Hello new file!")
         }
         .padding()
     }
