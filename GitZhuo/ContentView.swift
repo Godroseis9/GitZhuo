@@ -10,11 +10,12 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         VStack {
-            Image(systemName: "flags")
+            Image(systemName: "bolt")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Fun with Git")
             Text("Okshi with Git")
+            Text("send me email!")
         }
         .padding()
     }
